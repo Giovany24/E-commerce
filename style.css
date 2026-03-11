@@ -404,7 +404,6 @@ padding: 0;
     .header__description {
     padding: 0 24px;
     }
-}
 
 h1 {
     font-size: 40px;
@@ -416,6 +415,7 @@ h2 {
 
 button {
     font-size: 18px;
+}
 
     .book {
         width: 50%;
@@ -433,8 +433,8 @@ button {
     }
 
     .highlight {
-        width: 100%;
-        margin-bottom: 24px;
+     width: 100%;
+     margin-bottom: 24px;
     }
 
     .highlight:not(:last-child) {
